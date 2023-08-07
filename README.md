@@ -1,40 +1,39 @@
 # LibriSpeech-Sintetizer-TTS
 
-A fork that contains jobs and results using this dataset.
+This fork contains jobs and results using the LibriSpeech dataset for speech synthesis.
 
 ## Contents:
 
-* [1. Introduction](#1. Introduction)
-* [2. Corpus statistics](#2. Corpus statistics)
-  * [2.1. Original](#2.1. Original)
-  * [2.2. LJSpeech (single-speaker)](#2.2. LJSpeech (single-speaker))
-  * [2.3. LJSpeech (multi-speaker)](#2.3. LJSpeech (multi-speaker))
-* [3. TTS models](#3. TTS models)
-  * [3.1. Inference results](#3.1. Inference results)
-    * [3.1.1. Tacotron2](#3.1.1. Tacotron2)
-    * [3.1.2. Piper](#3.1.2. Piper)
-* [4. Conclusion](#4. Conclusion)
-* [5. references](#5. References)
+* [Introduction](#introduction)
+* [Corpus Statistics](#corpus-statistics)
+  * [Original](#original)
+  * [LJSpeech (Single-Speaker)](#ljspeech-single-speaker)
+  * [LJSpeech (Multi-Speaker)](#ljspeech-multi-speaker)
+* [TTS Models](#tts-models)
+  * [Inference Results](#inference-results)
+    * [Tacotron2](#tacotron2)
+    * [Piper](#piper)
+* [Conclusion](#conclusion)
+* [References](#references)
 
-## 1. Introduction
+## Introduction
 
-## 2. Corpus statistics
+## Corpus Statistics
 
-### 2.1. Original
+### Original
 
-### 2.2. LJSpeech (single-speaker)
+### LJSpeech (Single-Speaker)
 
-### 2.3. LJSpeech (multi-speaker)
+### LJSpeech (Multi-Speaker)
 
-## 3. TTS models
+## TTS Models
 
-### 3.1. Inference results
+### Inference Results
 
-#### 3.1.1. Tacotron2
+#### Tacotron2
 
-#### 3.1.2. Piper
+#### Piper
 
-## 4. Conclusion
+## Conclusion
 
-## 5. references
-
+## References
